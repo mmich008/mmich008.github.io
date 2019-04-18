@@ -5,15 +5,13 @@ I have adapted the ["Clean Blog Jekyll Theme" by Start Bootstrap](https://github
 ## To start:
 1. Fork this repository and rename it `[yourusername].github.io`. If you have a repository with that name left over from the last class, get rid of it or rename it first.
 2. Once you've done this, clone it to your computer using GitHub Desktop or git in the command line.
-
-### Once the files are on your computer:
-3. Open the entire project with AtoM. You can do this from GitHub desktop by right-clicking the name of the repository, from a fresh window of AtoM (File > Add Project Folder), or by dragging the folder into the Atom icon in MacOS.
+3. Once the files re on your computer, open the entire project with AtoM. You can do this from GitHub desktop by right-clicking the name of the repository, from a fresh window of AtoM (File > Add Project Folder), or by dragging the folder into the Atom icon in MacOS.
   * How are the files structured?
   * What seems to go where?
 4. Then, from the command line, go to that folder and start Jekyll with the command `bundle exec jekyll serve`. This will make a prompt with a a URL, which will be something like `http://127.0.0.1:4000/`. Visit this address to see your site. This is being served on your computer, rather than the Internet. To make it avaiable beyond your computer, you will need to enable GitHub Pages on the GitHub site. We'll do this later. For a reminder about how to use the command line, have a look at the [Programming Historian tutorial](https://programminghistorian.org/en/lessons/intro-to-bash) that I gave you in the first part of the course.
 5. In Atom, Open the file called `_config.yml` and enter your details in the various fields.
-6. Customise other aspects of your site, add content, make it look like nice. Make sure you save the files you edit after every change, so that you can see the effects in your browser.
-7. Keep an eye on the terminal. If you break something, the terminal will let you know, so you can undo the latest thing you did.
+6. Customise other aspects of your site, add content, make it look like nice. **Make sure you save the files you edit after every change, so that you can see the effects in your browser.**
+7. Keep an eye on the terminal. **If you break something, the terminal will let you know, so you can undo the latest thing you did.**
 8. When you are finished, commit you changes on the GitHub app and push them up to the cloud. Your website should become available at the address `[yourusername].github.io` shortly after, provided GitHub pages is enabled. If it is not enabled, you can do so from the settings tab. Also stop serving it on your computer by going to the terminal window that is running jekyll and pressing `ctrl+c`.
 
 # Some questions that will probably come up:
