@@ -22,7 +22,7 @@ Check the example blog post, both on the site and in the `_posts` folder.
 Create new markdown files in the `_posts` folder, making sure to include the header bit between the three lines (`---`). The easiest way is to create a copy of the example post I made for you and to edit it.
 
 ### How do I add new pages?
-Create a new markdown file in the main folder, making sure to include the header bit between the three lines (`---`). The easiest way, again, is to create a copy of an existing file, such as `about.md`.
+Create a new markdown file in the `_pages` folder, making sure to include the header bit between the three lines (`---`). The easiest way, again, is to create a copy of an existing file, such as `about.md`.
 
 ### How do I add my own pictures?
 Copy them into the `img` folder, but make sure they have been optimised for the Internet. (For example, by running them through an application like [JPEGmini lite](https://www.jpegmini.com/), or a web app like [Reduce Images](https://www.reduceimages.com/)). To make them appear in the heading section of your pages and posts, change the paths in the YAML header (the bit between the sets of three dashes - `---` – at the top of the file) from the example files to your own.
