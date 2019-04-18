@@ -2,7 +2,7 @@
 
 I have adapted the [Start Bootstrap - Clean Blog Jekyll](https://startbootstrap.com/template-overviews/clean-blog-jekyll/) to help you get to grips with Jekyll and GitHub pages, and to give you a head start developing your personal websites and projects.
 
-# To start:
+## To start:
 1. Fork this repository and rename it `[yourusername].github.io`. If you have a repository with that name left over from the last class, get rid of it or rename it first.
 2. Once you've done this, clone it to your computer using GitHub Desktop or git in the command line.
 
