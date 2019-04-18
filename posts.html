@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Posts
+title: Blog
 background: '/img/bg-post.jpg'
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -21,7 +21,8 @@ background: '/img/bg-post.jpg'
     {% else %}
     {{ site.author }}
     {% endif %}
-    on {{ post.date | date: '%B %d, %Y' }}</p>
+    on
+    {{ post.date | date: '%B %d, %Y' }}</p>
 </article>
 
 <hr>

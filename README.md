@@ -8,6 +8,8 @@ I have adapted the ["Clean Blog Jekyll Theme" by Start Bootstrap](https://github
 
 ### Once the files are on your computer:
 3. Open the entire project with AtoM. You can do this from GitHub desktop by right-clicking the name of the repository, from a fresh window of AtoM (File > Add Project Folder), or by dragging the folder into the Atom icon in MacOS.
+  * How are the files structured?
+  * What seems to go where?
 4. Then, from the command line, go to that folder and start Jekyll. For a reminder about how to use the command line, have a look at the [Programming Historian tutorial](https://programminghistorian.org/en/lessons/intro-to-bash) that I gave you in the first part of the course.
 5. In Atom, Open the file called `_config.yml` and enter your details in the various fields.
 
