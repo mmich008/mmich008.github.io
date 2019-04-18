@@ -24,7 +24,7 @@ By editing the `_includes/navbar.html`. I put instructions inside.
 Replace the file called `index.html` with the file called `index(page-first).html` (by removing the bit in parentheses), and you can edit the contents as if it were a normal page using Markdown and HTML as long as you keep the YAML header (the bit between the sets of three dashes - `---`) To change it back, replace that file with `index(blog-first.html)`.
 
 # What happens if I break something?
-You can always undo the last thing you did and save the file again. If it all goes horribly wrong, you can make a fresh start by unzipping the theme file again and moving your content across. If you get completely stuck, see me in office hours.
+You can always undo the last thing you did and save the file again. If it all goes horribly wrong, you can replace broken files copying them from my repository, or by downloading the theme from it as a zip file, unzipping it on your computer, and replacing the broken files with fresh ones. Or you can fork the repository again and start from scratch. If you get completely stuck, see me in office hours.
 
 ---
 
