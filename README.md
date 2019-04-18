@@ -3,14 +3,13 @@
 I have adapted the [Start Bootstrap - Clean Blog Jekyll](https://startbootstrap.com/template-overviews/clean-blog-jekyll/) to help you get to grips with Jekyll and GitHub pages, and to give you a head start developing your personal websites and projects.
 
 # To start:
-Fork this repository and rename it [yourusername].github.io. If you have a repository with that name left over from the last class, get rid of it or rename it first. Once you've done this, clone it to your computer using GitHub Desktop or git in the command line.
+1. Fork this repository and rename it `[yourusername].github.io`. If you have a repository with that name left over from the last class, get rid of it or rename it first.
+2. Once you've done this, clone it to your computer using GitHub Desktop or git in the command line.
 
-# Once the files are on your computer:
-1. Open the entire project with AtoM. You can do this from GitHub desktop by right-clicking the name of the repository, from a fresh window of AtoM (File > Add Project Folder), or by dragging the folder into the AtoM icon in MacOS.
-2. Then, from the command line, go to that folder and start Jekyll. For a reminder about how to use the command line, have a look at the [Programming Historian tutorial](https://programminghistorian.org/en/lessons/intro-to-bash) that I gave you in the first part of the course.
-
-# What next?
-Open the file called `_config.yml` and enter your details.
+### Once the files are on your computer:
+3. Open the entire project with AtoM. You can do this from GitHub desktop by right-clicking the name of the repository, from a fresh window of AtoM (File > Add Project Folder), or by dragging the folder into the Atom icon in MacOS.
+4. Then, from the command line, go to that folder and start Jekyll. For a reminder about how to use the command line, have a look at the [Programming Historian tutorial](https://programminghistorian.org/en/lessons/intro-to-bash) that I gave you in the first part of the course.
+5. In Atom, Open the file called `_config.yml` and enter your details in the various fields.
 
 # How do I use Markdown?
 Check the example blog post, both on the site and in the `_posts` folder.
