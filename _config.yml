@@ -1,6 +1,3 @@
----
-background:        '/img/introPic.png'
----
 title:             Mediating Palestine
 email:             maryr.michael@gmail.com
 description:       Google Maps Ain't Shit
@@ -25,3 +22,5 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+page-img: '/img/introPic.png'
