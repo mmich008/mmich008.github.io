@@ -1,13 +1,14 @@
 ---
-Header: "Cultural Studies Stuff"
+Header: "Sources"
 layout: page
-title: Cultural Studies
-description: Here's some theory you didn't ask for.
-background: '/img/dys4iaBreakoutTest.jpg'
+title: Sources
+description: The stuff I've "read".
+background: '/img/dmCover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex alias, earum consectetur quia natus ducimus voluptate explicabo, hic porro reprehenderit, quasi? Tenetur ipsum distinctio laboriosam perspiciatis officiis dolore, architecto id.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam inventore aspernatur repellendus incidunt adipisci modi voluptates recusandae iste eligendi, repudiandae corporis quod aut, optio! Explicabo quaerat unde voluptatem! Itaque, eum!
+Sousanis, Nick. Unflattening. Cambridge and London: Harvard University Press, 2015.
+Hochberg, Gil. Visual Occupations: Violence and Visibility in a Conflict Zone. Durham and London: Duke University Press, 2015.
+Puar, Jasbir. The Right to Maim: Debility, Capacity, Disability. Durham and London: Duke University Press, 2017.
+Massumi, Brian. “The Autonomy of Affect.” Cultural Critique 31 (1995): 83-109.
+Butler, Judith. Bodies That Matter: On the Discursive Limits of “Sex”. London and New York: Routledge, 1993.
+Derrida, Jacques. Différance. 2002.
