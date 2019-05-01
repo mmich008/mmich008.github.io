@@ -1,9 +1,9 @@
 ---
-Header: "Cultural Studies Stuff"
+Header: "Maps"
 layout: page
-title: Cultural Studies
-description: Here's some theory you didn't ask for.
-background: '/img/dys4iaBreakoutTest.jpg'
+title: Maps
+description: Different maps of Palestine
+background: '/img/dmMap'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!
