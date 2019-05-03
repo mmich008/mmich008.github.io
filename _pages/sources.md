@@ -3,7 +3,7 @@ Header: "Sources"
 layout: page
 title: Sources
 description: The stuff I've "read".
-background: '/img/dmCover.jpg'
+background: '/img/lim.jpg'
 ---
 
 Sousanis, Nick. Unflattening. Cambridge and London: Harvard University Press, 2015.
