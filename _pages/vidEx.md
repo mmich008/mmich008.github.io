@@ -11,8 +11,8 @@ background: '/img/lim.jpg'
   float: left;
   background-color: #2196F3;
   color: #ffffff;
-  width: 100px;
-  line-height: 100px;
+  width: 200px;
+  line-height: 200px;
   text-align: center;
   margin: 2px;
   display: none;
