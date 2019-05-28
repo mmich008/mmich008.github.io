@@ -58,7 +58,7 @@ background: '/img/lim.jpg'
 </div>
 
 <div class="container">
-  <div class="filterDiv cars"><iframe width="560" height="315" src="https://www.youtube.com/embed/s1WJsipsZkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="filterDiv cars"><iframe width="100" height="100" src="https://www.youtube.com/embed/s1WJsipsZkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="filterDiv colors fruits">Orange</div>
   <div class="filterDiv cars">Volvo</div>
   <div class="filterDiv colors">Red</div>
