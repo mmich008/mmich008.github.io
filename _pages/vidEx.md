@@ -1,7 +1,7 @@
 ---
 Header: "Video Exhibit"
 layout: page
-title: Sources
+title: Video Exhibit
 description: Walk Through Palestine.
 background: '/img/lim.jpg'
 ---
