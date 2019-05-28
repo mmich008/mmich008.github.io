@@ -2,7 +2,7 @@
 Header: "Video Exhibit"
 layout: page
 title: Sources
-description: "Walk" Through Palestine.
+description: Walk Through Palestine.
 background: '/img/lim.jpg'
 ---
 
