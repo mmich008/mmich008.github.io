@@ -11,7 +11,7 @@ background: '/img/lim.jpg'
   float: left;
   background-color: #2196F3;
   color: #ffffff;
-  width: 400px;
+  width: 300px;
   line-height: 400px;
   text-align: center;
   margin: 2px;
@@ -23,7 +23,7 @@ background: '/img/lim.jpg'
 }
 
 .container {
-  margin-top: 20px;
+  margin-top: 0px;
   overflow: hidden;
 }
 
