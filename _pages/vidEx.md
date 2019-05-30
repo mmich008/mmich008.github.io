@@ -24,6 +24,7 @@ background: '/img/lim.jpg'
 
 .container {
   margin-top: 20px;
+  margin-right: 5px;
   overflow: hidden;
 }
 
