@@ -47,7 +47,8 @@ background: '/img/lim.jpg'
 </style>
 <body>
 
-<h2>Filter DIV Elements</h2>
+<h2>Go for a "Walk" in the Gaza Strip</h2>
+<br>
 
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
