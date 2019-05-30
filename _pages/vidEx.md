@@ -55,6 +55,7 @@ background: '/img/lim.jpg'
   <button class="btn" onclick="filterSelection('municipality')"> Municipality</button>
   <button class="btn" onclick="filterSelection('urban')"> Urban</button>
   <button class="btn" onclick="filterSelection('street-art')"> Street Art</button>
+  <button class="btn" onclick="filterSelection('half-body')"> Partial Bodies</button>
 </div>
 
 <div class="container">
@@ -63,7 +64,7 @@ background: '/img/lim.jpg'
   <div class="filterDiv water"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/tGXtAAY6ehg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="filterDiv municipality urban"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/fsVLCHEQb74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="filterDiv urban street-art"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/C1j_YHMMG4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-  <div class="filterDiv colors">Blue</div>
+  <div class="filterDiv half-body"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/fSBDY5vOkes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="filterDiv animals">Cat</div>
   <div class="filterDiv animals">Dog</div>
   <div class="filterDiv fruits">Melon</div>
