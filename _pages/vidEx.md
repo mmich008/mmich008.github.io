@@ -23,7 +23,7 @@ background: '/img/lim.jpg'
 }
 
 .container {
-  margin-top: 0px;
+  margin-top: 20px;
   overflow: hidden;
 }
 
