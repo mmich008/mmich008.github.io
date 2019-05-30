@@ -12,7 +12,7 @@ background: '/img/lim.jpg'
   background-color: #2196F3;
   color: #ffffff;
   width: 300px;
-  line-height: 400px;
+  line-height: 200px;
   text-align: center;
   margin: 2px;
   display: none;
@@ -58,7 +58,7 @@ background: '/img/lim.jpg'
 </div>
 
 <div class="container">
-  <div class="filterDiv cars"><iframe width="200px" height="200px" src="https://www.youtube.com/embed/s1WJsipsZkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="filterDiv cars"><iframe width="300px" height="200px" src="https://www.youtube.com/embed/s1WJsipsZkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="filterDiv colors fruits">Orange</div>
   <div class="filterDiv cars">Volvo</div>
   <div class="filterDiv colors">Red</div>
