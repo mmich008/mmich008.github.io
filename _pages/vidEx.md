@@ -12,7 +12,7 @@ background: '/img/lim.jpg'
   <!--background-color: #2196F3;
   color: #ffffff;-->
   width: 300px;
-  line-height: 200px;
+  line-height: 100px;
   text-align: center;
   margin: 5px;
   display: none;
