@@ -9,11 +9,11 @@ background: '/img/lim.jpg'
 <style>
 .filterDiv {
   float: left;
-  background-color: #2196F3;
+  <!--background-color: #2196F3;
   color: #ffffff;
   width: 300px;
   line-height: 200px;
-  text-align: center;
+  text-align: center;-->
   margin: 2px;
   display: none;
 }
