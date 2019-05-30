@@ -12,9 +12,9 @@ background: '/img/lim.jpg'
   <!--background-color: #2196F3;
   color: #ffffff;
   width: 300px;
-  line-height: 200px;
-  text-align: center;-->
-  margin: 2px;
+  line-height: 200px;-->
+  text-align: center;
+  margin: 10px;
   display: none;
 }
 
@@ -24,7 +24,6 @@ background: '/img/lim.jpg'
 
 .container {
   margin-top: 20px;
-  margin-right: 5px;
   overflow: hidden;
 }
 
