@@ -14,7 +14,7 @@ background: '/img/lim.jpg'
   width: 300px;
   line-height: 200px;-->
   text-align: center;
-  margin: 10px;
+  margin: 2px;
   display: none;
 }
 
