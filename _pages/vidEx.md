@@ -51,17 +51,17 @@ background: '/img/lim.jpg'
 
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-  <button class="btn" onclick="filterSelection('cars')"> Cars</button>
-  <button class="btn" onclick="filterSelection('animals')"> Animals</button>
+  <button class="btn" onclick="filterSelection('water')"> Water</button>
+  <button class="btn" onclick="filterSelection('municipality')"> Municipality</button>
   <button class="btn" onclick="filterSelection('fruits')"> Fruits</button>
   <button class="btn" onclick="filterSelection('colors')"> Colors</button>
 </div>
 
 <div class="container">
-  <div class="filterDiv cars"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/s1WJsipsZkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-  <div class="filterDiv colors fruits"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/MNzdgkAwuIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-  <div class="filterDiv cars"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/tGXtAAY6ehg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-  <div class="filterDiv colors"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/fsVLCHEQb74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="filterDiv water"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/s1WJsipsZkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="filterDiv water"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/MNzdgkAwuIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="filterDiv water"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/tGXtAAY6ehg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="filterDiv municipality"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/fsVLCHEQb74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="filterDiv cars animals">Mustang</div>
   <div class="filterDiv colors">Blue</div>
   <div class="filterDiv animals">Cat</div>
