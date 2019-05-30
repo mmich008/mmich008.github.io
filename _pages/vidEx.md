@@ -10,9 +10,9 @@ background: '/img/lim.jpg'
 .filterDiv {
   float: left;
   <!--background-color: #2196F3;
-  color: #ffffff;-->
+  color: #ffffff;
   width: 300px;
-  line-height: 200px;
+  line-height: 200px;-->
   text-align: center;
   margin: 5px;
   display: none;
