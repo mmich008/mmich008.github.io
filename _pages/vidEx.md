@@ -60,6 +60,7 @@ background: '/img/lim.jpg'
   <button class="btn" onclick="filterSelection('construction')"> Construction</button>
   <button class="btn" onclick="filterSelection('tech')"> Tech</button>
   <button class="btn" onclick="filterSelection('store')"> Store</button>
+  <button class="btn" onclick="filterSelection('crops')"> Crops</button>
 </div>
 
 <div class="container">
@@ -71,7 +72,7 @@ background: '/img/lim.jpg'
   <div class="filterDiv half-body"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/fSBDY5vOkes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="filterDiv construction"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/bK1ZuJS3SbU?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="filterDiv urban tech store"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/hfkbvv_Nz2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-  <div class="filterDiv fruits">Melon</div>
+  <div class="filterDiv crops"><iframe width="350px" height="250px" src="https://www.youtube.com/embed/K4YnN47_mgg?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="filterDiv fruits animals">Kiwi</div>
   <div class="filterDiv fruits">Banana</div>
   <div class="filterDiv fruits">Lemon</div>
