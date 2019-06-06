@@ -16,5 +16,5 @@ background: '/img/dmMap.jpg'
 </figure>
 
 <figure>
-<img src="img/irwinGazaMap.gif">
+<img src="img/irwinGazaMap.gif" style="width:300px;height:300px;">
 </figure>
