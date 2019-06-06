@@ -23,5 +23,5 @@ background: '/img/dmMap.jpg'
 
 <figure>
 <figcaption>Image from B'Tselem Interactive Map</figcaption>
-<img src="img/btseleemMapPic.jpg">
+<img src="img/btseleemMapPic.jpg" style="height:500px;width:500px;">
 </figure>
