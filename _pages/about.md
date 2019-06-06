@@ -10,6 +10,8 @@ background: '/img/militaryGazaStrip.jpg'
   </style>
 </head>
 <body>
+<h3>What is this site about?</h3>
+
 <p>Mediating Palestine is a webspace created for the collection of media representations of Palestine. This is a <i>media</i> studies space. The word "mediating" in the title does not refer to the "problem-solving" sense of the word - this space is NOT about "solving" Palestine. Rather, "<i>media</i>ting" refers to the ways in which we understand what Palestine is through media. It is, however, important to establish that these different senses of "mediation" are not mutually exclusive in the case of the Palestinian-Israeli conflict. After all, it is pretty common to see various media representations of Palestine and Palestinians within discussions of "solutions" to the conflict.</p>
 
 <p>By gathering <i>media</i>tions of Palestine, this site attempts to provoke questions such as: What are we seeing when we look at Palestine? Why is there a strong recourse to mapping Palestine in the midst of the conflict? Who is mapping Palestine and how is Palestine being mapped? What does mapping offer in terms of <i>media</i>ting and mediating Palestine? What types of knowledge are being privileged in different <i>media</i>tions of Palestine? How do we de-privilege knowledge regimes around Palestine? How do these <i>media</i>tions complicate data and databases? What does this collection suggest about the data-based ways in which we attempt to "capture" Palestine? What does all of this say about media studies and <i>media</i>tions?</p>
@@ -18,3 +20,7 @@ background: '/img/militaryGazaStrip.jpg'
 
 <p>And in case there was any doubt: THIS IS A PRO-PALESTINE SPACE. Go away, racists!</p>
 </body>
+
+<h3>Disclaimer</h3>
+
+<p>I only take credit for the objects with my name on them (the blog posts, and one of the maps on the Maps page). Everything else is attributed to the author and source from which I found the object. As this project is currently thinking about Google Maps' images, most of the videos and maps are taken from Google Maps. The cover image for the Maps page is taken from a game called The Dream Machine by Cockroach Inc.</p>
