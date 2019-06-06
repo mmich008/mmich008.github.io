@@ -20,3 +20,8 @@ background: '/img/dmMap.jpg'
 <img src="img/irwinGazaMap.gif" style="height:500px;width:550px">
 <img src="img/IrwinHOTGaza.jpg" style="height:500px;width:550px">
 </figure>
+
+<figure>
+<figcaption>Image from B'Tselem Interactive Map</figcaption>
+<img src="img/btseleemMapPic.jpg">
+</figure>
