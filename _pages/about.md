@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-description: This is what I do.
+title: About Mediating Palestine
+description: What this site IS and IS NOT
 background: '/img/bg-about.jpg'
 ---
 <head>
@@ -14,5 +14,7 @@ background: '/img/bg-about.jpg'
 
 <p>By gathering mediations of Palestine, this site attempts to provoke questions such as: What are we seeing when we look at Palestine? Why is there a strong recourse to mapping Palestine in the midst of the conflict? Who is mapping Palestine and how is Palestine being mapped? What does mapping offer in terms of mediating and mediating Palestine? What types of knowledge are being privileged in different mediations of Palestine? How do we de-privilege knowledge regimes around Palestine? How do these mediations complicate data and databases? What does this collection suggest about the data-based ways in which we attempt to "capture" Palestine?</p>
 
-<p>And in case there was any doubt: THIS IS A PRO-PALESTINE SPACE. Go away if you're not down with the cause.</p>
+<p>This site IS NOT is not a space for hate speech and trolling. That's what Reddit is for.</p>
+
+<p>And in case there was any doubt: THIS IS A PRO-PALESTINE SPACE. Go away, racists!</p>
 </body>
