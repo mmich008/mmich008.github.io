@@ -17,5 +17,5 @@ background: '/img/dmMap.jpg'
 
 <figure>
 <figcaption>Humanitarian OpenStreetMap, via Matt Irwin "Mapping Gaza," Points of Interest Blog</figcaption>
-<img src="img/irwinGazaMap.gif">
+<img src="img/irwinGazaMap.gif" style="height:500px;width:500px">
 </figure>
