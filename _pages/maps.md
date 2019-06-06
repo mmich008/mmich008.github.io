@@ -11,11 +11,11 @@ background: '/img/dmMap.jpg'
 </figure>
 
 <figure>
-<figcaption>Matt Irwin's Map of Gaza via Points of Interest Blog</figcaption>
-<img src="img/irwinGazaMap.gif">
+<figcaption>Snapchat Map (Snap Inc.)</figcaption>
+<div style="width: 1100px; height: 336px; border-radius: 16px; overflow: hidden; border: 1px solid rgb(223, 227, 231); position: relative; z-index: 1;"><iframe src="https://map.snapchat.com/embed/1556846447455/@34.413175,-119.825760,12.00z" width="100%" height="100%" frameborder="0" style="position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px;"></iframe></div>
 </figure>
 
 <figure>
-<figcaption>Snapchat Map (Snap Inc.)</figcaption>
-<div style="width: 1050px; height: 336px; border-radius: 16px; overflow: hidden; border: 1px solid rgb(223, 227, 231); position: relative; z-index: 1;"><iframe src="https://map.snapchat.com/embed/1556846447455/@34.413175,-119.825760,12.00z" width="100%" height="100%" frameborder="0" style="position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px;"></iframe></div>
+<figcaption>Matt Irwin's Map of Gaza via Points of Interest Blog</figcaption>
+<img src="img/irwinGazaMap.gif">
 </figure>
