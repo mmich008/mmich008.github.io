@@ -2,7 +2,7 @@
 layout: page
 title: About Mediating Palestine
 description: What this site IS and IS NOT
-background: '/img/bg-about.jpg'
+background: '/img/militaryGazaStrip.jpg'
 ---
 <head>
   <style>
