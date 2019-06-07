@@ -2,7 +2,7 @@
 Header: "Video Exhibit"
 layout: page
 title: Video Exhibit
-description: Walk Through Palestine.
+description: Walk Through Palestine
 background: '/img/gazaCoastAerial.jpg'
 ---
 
